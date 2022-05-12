@@ -31,6 +31,9 @@ Zhuhao Zhou
 - Neural renderer
 
 	`pip install neural_renderer_pytorch`
+	
+	or
+
 	`pip install git+https://github.com/ZhengZerong/neural_renderer.git`
 
 - Other libraies
