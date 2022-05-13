@@ -3,9 +3,17 @@
 ### Results Show
 
 <p align="center">
-    <img src="GAN2Shape_demo.gif", width="900">
+    <img src="results/OVYimesm.GIF", width="225">
 </p>
-
+<p align="center">
+    <img src="results/bnSyizg8.GIF", width="225">
+</p>
+<p align="center">
+    <img src="results/jkxyqe5Y.GIF", width="225">
+</p>
+<p align="center">
+    <img src="results/ASovCB70", width="225">
+</p>
 ### Team Members
 Yangyu Song
 
