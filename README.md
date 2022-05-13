@@ -1,9 +1,9 @@
 # **COMP6248-Reproducibility Challenge**
 ## Do 2D GANs Know 3D Shape? Unsupervised 3D Shape Reconstruction from 2D Image GANs
 ### Results Show
-<center class="half">
+<div align="center">
 <img src="results/OVYimesm.GIF" width=150/><img src="results/bnSyizg8.GIF" width=150/><img src="results/jkxyqe5Y.GIF" width=150/><img src="results/ASovCB70.GIF" width=150/>
-</center>
+</div>
 <center class="fourth">
 <img src="results/v5phcsHI.GIF" width=200/><img src="results/5dytHKWn.GIF" width=200/><img src="results/KqGKFX1j.GIF" width=200/><img src="results/9r2bIrEP.GIF" width=200/>
 </center>
